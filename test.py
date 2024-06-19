@@ -6,5 +6,5 @@ st.title("Hello world!")
 
 import streamlit as st
 
-title = st.text_input("Movie title", "Life of Brian")
+title = st.text_input("Enter First Aid Help?", "")
 st.write("The current movie title is", title)
