@@ -11,3 +11,4 @@ websockets
 tiktoken
 jinja2
 python-multipart
+streamlit-extras
