@@ -6,3 +6,4 @@ streamlit-chat==0.1.0
 requests
 fontTools==4.40.0
 typing_extensions==4.6.3
+import streamlit.components.v1
