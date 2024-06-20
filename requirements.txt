@@ -8,4 +8,4 @@ gunicorn==19.7.1
 tensorflow==2.15.0
 scikit-learn==1.2.0
 numpy
-streamlit.components.v1.html
+streamlit.components.v1
